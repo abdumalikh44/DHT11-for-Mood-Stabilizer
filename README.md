@@ -36,7 +36,7 @@ then choose the latest version.
     3. DHT11
 
 ### Wire a DHT11 to the arduino
-
+![](images/skematik.JPG)
 
 ### Write an Arduino Script to upload to the Arduino Uno
 ```bash
